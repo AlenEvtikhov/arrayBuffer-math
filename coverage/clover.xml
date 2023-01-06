@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1673033139899" clover="3.2.0">
+  <project timestamp="1673033139899" name="All files">
+    <metrics statements="16" coveredstatements="16" conditionals="2" coveredconditionals="2" methods="8" coveredmethods="8" elements="26" coveredelements="26" complexity="0" loc="16" ncloc="16" packages="1" files="3" classes="3"/>
+    <file name="Character.js" path="/Users/Alen/Desktop/Новая папка 3/arrayBuffer-math/src/js/Character.js">
+      <metrics statements="12" coveredstatements="12" conditionals="2" coveredconditionals="2" methods="6" coveredmethods="6"/>
+      <line num="3" count="2" type="stmt"/>
+      <line num="4" count="2" type="stmt"/>
+      <line num="5" count="2" type="stmt"/>
+      <line num="9" count="2" type="stmt"/>
+      <line num="10" count="2" type="stmt"/>
+      <line num="11" count="2" type="cond" truecount="2" falsecount="0"/>
+      <line num="12" count="1" type="stmt"/>
+      <line num="14" count="2" type="stmt"/>
+      <line num="15" count="2" type="stmt"/>
+      <line num="20" count="2" type="stmt"/>
+      <line num="24" count="2" type="stmt"/>
+      <line num="28" count="1" type="stmt"/>
+    </file>
+    <file name="Daemon.js" path="/Users/Alen/Desktop/Новая папка 3/arrayBuffer-math/src/js/Daemon.js">
+      <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <line num="5" count="1" type="stmt"/>
+      <line num="6" count="1" type="stmt"/>
+    </file>
+    <file name="Magician.js" path="/Users/Alen/Desktop/Новая папка 3/arrayBuffer-math/src/js/Magician.js">
+      <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <line num="5" count="1" type="stmt"/>
+      <line num="6" count="1" type="stmt"/>
+    </file>
+  </project>
+</coverage>
